@@ -61,7 +61,7 @@ category_names = {
 class WarehouseBot:
     def __init__(self):
         self.language = None  # Язык будет выбран пользователем
-        self.inventory_manager = GoogleInventoryManager("c:/Projects/warehouse-bot/src/creds.json", "warehousedatabase")
+        self.inventory_manager = GoogleInventoryManager("/etc/secrets/creds.json", "warehousedatabase")
         self.manual_translations = {
             "трос 1м": {
                 "az": "Kabel 1m",
