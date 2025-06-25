@@ -1,0 +1,13 @@
+{
+  "welcome": "კეთილი იყოს თქვენი მობრძანება საწყობში!",
+  "language_selection": "გთხოვთ, აირჩიოთ ენა:",
+  "inventory": "ინვენტარი",
+  "item_selected": "აირჩიეთ ნივთი:",
+  "item_taken": "თქვენ აიღეთ ნივთი: {item_name} (ნომერი: {item_id}). ახალი რაოდენობა: {new_quantity}.",
+  "item_returned": "თქვენ დააბრუნეთ ნივთი: {item_name} (ნომერი: {item_id}). ახალი რაოდენობა: {new_quantity}.",
+  "error_item_not_found": "ნივთი ვერ მოიძებნა.",
+  "error_invalid_quantity": "არასწორი რაოდენობა.",
+  "confirm_take": "გსურთ აიღოთ ეს ნივთი?",
+  "confirm_return": "გსურთ დააბრუნოთ ეს ნივთი?",
+  "exit": "გამოსვლა"
+}

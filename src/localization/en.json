@@ -1,0 +1,16 @@
+{
+    "welcome_message": "Welcome to the Warehouse Automation Bot!",
+    "language_selection": "Please select your language:",
+    "inventory_update": "Inventory updated successfully.",
+    "item_taken": "You have taken item: {item_name} (ID: {item_id}).",
+    "item_returned": "You have returned item: {item_name} (ID: {item_id}).",
+    "current_quantity": "Current quantity of item ID {item_id}: {quantity}",
+    "error_item_not_found": "Error: Item with ID {item_id} not found.",
+    "error_invalid_quantity": "Error: Invalid quantity update for item ID {item_id}.",
+    "items": {
+        "wrench_14": "Wrench 14",
+        "wrench_15": "Wrench 15",
+        "wrench_19": "Wrench 19"
+    },
+    "exit_message": "Thank you for using the Warehouse Automation Bot. Goodbye!"
+}

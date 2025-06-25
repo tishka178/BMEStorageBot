@@ -1,0 +1,17 @@
+{
+  "welcome": "Добро пожаловать в автоматизацию склада!",
+  "language_selection": "Выберите язык:",
+  "inventory": "Инвентарь",
+  "item_taken": "Вы взяли {quantity} {item} (номер {item_id}).",
+  "item_returned": "Вы вернули {quantity} {item} (номер {item_id}).",
+  "update_success": "Количество {item} (номер {item_id}) обновлено на {new_quantity}.",
+  "error_item_not_found": "Ошибка: предмет с номером {item_id} не найден.",
+  "error_invalid_quantity": "Ошибка: недопустимое количество.",
+  "tiles": {
+    "wrench": "Гаечный ключ",
+    "wrench_14": "Гаечный ключ 14",
+    "wrench_15": "Гаечный ключ 15",
+    "wrench_19": "Гаечный ключ 19"
+  },
+  "exit": "Выход"
+}

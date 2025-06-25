@@ -1,0 +1,14 @@
+{
+  "welcome": "Xoş gəlmisiniz",
+  "language_selection": "Dil seçimi",
+  "select_item": "Məhsul seçin",
+  "item_taken": "{item} götürüldü. Yeni miqdar: {quantity}",
+  "item_returned": "{item} qaytarıldı. Yeni miqdar: {quantity}",
+  "inventory": "Anbar",
+  "wrench": "Açar",
+  "update_quantity": "Miqdar yeniləndi",
+  "error": "Xəta baş verdi",
+  "confirm_action": "Əminsinizmi?",
+  "action_success": "Əməliyyat uğurla tamamlandı",
+  "action_failure": "Əməliyyat uğursuz oldu"
+}

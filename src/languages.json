@@ -1,0 +1,54 @@
+{
+    "en": {
+        "name": "English",
+        "app_title": "Warehouse Bot",
+        "select_item": "Select an item:",
+        "take": "Take",
+        "return": "Return",
+        "success": "Success",
+        "error": "Error",
+        "not_enough": "Not enough {item} in stock.",
+        "not_found": "{item} not found in inventory.",
+        "updated": "{item} updated to {quantity}.",
+        "added": "{item} added with quantity {quantity}."
+    },
+    "ru": {
+        "name": "Русский",
+        "app_title": "Склад Бот",
+        "select_item": "Выберите предмет:",
+        "take": "Взять",
+        "return": "Вернуть",
+        "success": "Успех",
+        "error": "Ошибка",
+        "not_enough": "Недостаточно {item} на складе.",
+        "not_found": "{item} не найден в инвентаре.",
+        "updated": "{item} обновлено до {quantity}.",
+        "added": "{item} добавлено с количеством {quantity}."
+    },
+    "ka": {
+        "name": "ქართული",
+        "app_title": "საწყობის ბოტი",
+        "select_item": "აირჩიეთ ნივთი:",
+        "take": "აღება",
+        "return": "დაბრუნება",
+        "success": "წარმატება",
+        "error": "შეცდომა",
+        "not_enough": "საწყობში არ არის საკმარისი {item}.",
+        "not_found": "{item} ვერ მოიძებნა ინვენტარში.",
+        "updated": "{item} განახლდა {quantity}-მდე.",
+        "added": "{item} დაემატა რაოდენობით {quantity}."
+    },
+    "az": {
+        "name": "Azərbaycan",
+        "app_title": "Anbar Botu",
+        "select_item": "Elementi seçin:",
+        "take": "Götür",
+        "return": "Qaytar",
+        "success": "Uğur",
+        "error": "Xəta",
+        "not_enough": "Anbarda kifayət qədər {item} yoxdur.",
+        "not_found": "{item} inventarda tapılmadı.",
+        "updated": "{item} {quantity} qədər yeniləndi.",
+        "added": "{item} {quantity} miqdarı ilə əlavə edildi."
+    }
+}
